@@ -77,6 +77,11 @@ Workflow Diagram (диаграмма рабочего процесса) — эт
 
 <img width="2358" height="529" alt="image" src="https://github.com/user-attachments/assets/5f2fdaa7-1398-48b5-937e-d0d77e2b4edb" />
 
+В рамках задания была создана и размещена на GitHub сложная блок-схема алгоритма. Схема включает в себя условные операторы (if/else) для ветвления логики и операторы вывода (print) для отображения результатов.
+
+<img width="2481" height="1280" alt="image" src="https://github.com/user-attachments/assets/8151ddf1-c515-42d7-9899-2cf25a58701a" />
+
+
 
 
 
