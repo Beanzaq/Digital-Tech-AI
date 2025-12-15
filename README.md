@@ -265,10 +265,13 @@ WYSIWYG (произносится «визивиг») — это аббреви�
 
 Переключаем режим редактирования на разметку Markdown и добавляем диаграмму PlantUML и блок-схему Draw.io:
 
-<img width="1853" height="601" alt="image" src="https://github.com/user-attachments/assets/e5e21199-1100-43ab-90a2-21115234dad3" />
-<img width="985" height="1053" alt="image" src="https://github.com/user-attachments/assets/05341c47-16e6-4453-b277-7d303fe60241" />
+<img width="1853" height="601" alt="image" src="https://github.com/user-attachments/assets/e5e21199-1100-43ab-90a2-21115234dad3" /><img width="985" height="1053" alt="image" src="https://github.com/user-attachments/assets/05341c47-16e6-4453-b277-7d303fe60241" />
 
+PLANTUML + VS CODE
 
+Установил расширение PlantUML для VS Code, изучил его возможности и поддерживаемые форматы. Создал файл, вставил код ментальной карты и запустил предпросмотр диаграммы.
+
+<img width="2559" height="1530" alt="image" src="https://github.com/user-attachments/assets/638b3724-fdf5-4b12-aaa1-a32a1216d711" />
 
 
 
